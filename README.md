@@ -5,7 +5,7 @@ I'm Harumi Maeda, a 24yo brazilian-japanese designer and a full stack web develo
 
 - :woman: Pronouns: she/her;
 - :earth_americas: Currently at: São Paulo, Brazil;
-- 🌱 I’m currently studying at @Trybe, learning **Web Development Fundamentals**;
+- 🌱 I’m currently studying at @Trybe, learning **Front-End Developmen**;
 - 📫 How to reach me:
 
 <a href="https://instagram.com/harumimaeda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
