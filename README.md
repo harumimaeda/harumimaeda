@@ -1,7 +1,7 @@
 
 ## Hello, world! :wave:
 
-I'm Harumi Maeda, a 24yo brazilian-japanese designer and a full stack web development student.
+I'm Harumi Maeda, a 25yo brazilian-japanese designer and a full stack web development student.
 
 - :woman: Pronouns: she/her;
 - :earth_americas: Currently at: São Paulo, Brazil;
